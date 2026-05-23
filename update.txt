@@ -1,4 +1,4 @@
-version:0.2.6
+version:0.2.5
 winfileurl=https://github.com/cloudoamp/ShiftLine/releases/download/0.2.n/ver0.3.0.zip
 macfileurl=nil
 linuxfileurl=nil
