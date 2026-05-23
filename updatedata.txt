@@ -1,7 +1,7 @@
-# ShiftLine ver0.2.8
+# ShiftLine ver0.2.6
 
 ## 概要
-ShiftLine ver0.2.6に一部楽曲を実装し、一部修正を加えたもの
+ShiftLine ver0.2.5に一部楽曲を実装し、一部修正を加えたもの
 譜面は未完成
 実装されている曲は以下の通り
 　takaken-エンドストーリー/Hard
