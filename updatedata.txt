@@ -1,4 +1,4 @@
-# ShiftLine ver0.3.1
+# ShiftLine ver0.3.5
 
 ## 変更点
 ・起動を高速化
