@@ -1,5 +1,5 @@
-# ShiftLine ver0.3.8
+# ShiftLine ver0.3.9
 
 ## 変更点
-・Settingsよりキーコンフィグの変更をできるようにした
-・DiscordRPCを再度使用可能にした
+・Settingsよりフィードバッグ(要望)を送信できるようにした
+・MacOSに対応
