@@ -1,1 +1,2 @@
+100=launcher 1.0.0
 200=launcher 2.0.0
